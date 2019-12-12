@@ -1,0 +1,4 @@
+(ocamllex json)
+
+(library
+ (name json))
